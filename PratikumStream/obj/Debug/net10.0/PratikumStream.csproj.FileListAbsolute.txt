@@ -1,0 +1,14 @@
+C:\Users\rafae\PratikumStream\bin\Debug\net10.0\PratikumStream.exe
+C:\Users\rafae\PratikumStream\bin\Debug\net10.0\PratikumStream.deps.json
+C:\Users\rafae\PratikumStream\bin\Debug\net10.0\PratikumStream.runtimeconfig.json
+C:\Users\rafae\PratikumStream\bin\Debug\net10.0\PratikumStream.dll
+C:\Users\rafae\PratikumStream\bin\Debug\net10.0\PratikumStream.pdb
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.AssemblyInfoInputs.cache
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.AssemblyInfo.cs
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.csproj.CoreCompileInputs.cache
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.dll
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\refint\PratikumStream.dll
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.pdb
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\PratikumStream.genruntimeconfig.cache
+C:\Users\rafae\PratikumStream\obj\Debug\net10.0\ref\PratikumStream.dll
